@@ -8,7 +8,7 @@ import {
   FaGithubSquare,
   FaLink,
 } from "react-icons/fa";
-import { SiJavascript, SiStyledcomponents, SiRedux } from "react-icons/si";
+import { SiJavascript, SiStyledcomponents, SiRedux , SiPython,SiMysql } from "react-icons/si";
 
 // Projects Images (add your images to the /images directory and import below)
 import Logo from "./images/logo.svg";
@@ -68,13 +68,13 @@ export const skillData = [
   },
   {
     id: 6,
-    skill: <SiStyledcomponents className="display-4" />,
-    name: "Styled Components",
+    skill: <SiMysql className="display-4" />,
+    name: "Mysql",
   },
   {
     id: 7,
-    skill: <SiRedux className="display-4" />,
-    name: "Redux",
+    skill: <SiPython className="display-4" />,
+    name: "Python",
   },
   {
     id: 8,
@@ -110,4 +110,4 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xyyovrgd";
