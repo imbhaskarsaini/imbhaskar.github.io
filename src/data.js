@@ -8,7 +8,7 @@ import {
   FaGithubSquare,
   FaLink,
 } from "react-icons/fa";
-import { SiJavascript, SiStyledcomponents, SiRedux , SiPython,SiMysql } from "react-icons/si";
+import { SiJavascript, SiPython,SiMysql } from "react-icons/si";
 
 // Projects Images (add your images to the /images directory and import below)
 import Logo from "./images/logo.svg";
@@ -35,7 +35,8 @@ export const Blog = <FaLink />;
 */
 export const moreInfo =
   "I enjoy learning about technology and helping others use it to improve their lives and be more productive.";
-
+export const About = <FaLink />; 
+export const moreIn = "{Field of Interest}:Machine Learning and Full Stack  Development"
 /* Skills
  ************************************************************** 
   Add or remove skills in the SAME format below, there must be one icon imported above per skill below.
