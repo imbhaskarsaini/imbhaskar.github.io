@@ -34,7 +34,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive.";
+  "Hello my name is Bhaskar,I enjoy learning about technology and helping others use it to improve their lives and be more productive.";
 export const About = <FaLink />; 
 export const moreIn = "{Field of Interest}:DevOps , Docker , Jenkins , Kubernetes , Terraform , GCP , Azure"
 /* Skills
