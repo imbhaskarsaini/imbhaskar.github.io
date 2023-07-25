@@ -36,7 +36,7 @@ export const Blog = <FaLink />;
 export const moreInfo =
   "I enjoy learning about technology and helping others use it to improve their lives and be more productive.";
 export const About = <FaLink />; 
-export const moreIn = "{Field of Interest}:Machine Learning and Full Stack  Development"
+export const moreIn = "{Field of Interest}:DevOps , Docker , Jenkins , Kubernetes , Terraform , GCP , Azure"
 /* Skills
  ************************************************************** 
   Add or remove skills in the SAME format below, there must be one icon imported above per skill below.
