@@ -34,7 +34,7 @@ export default function AboutMe() {
           <Row className="align-items-center mt-5">
             <Col className="d-flex flex-column text-center">
               <p>{bio}</p>
-              {moreInfo && <p>{moreIn}</p>}
+              {moreInfo && <p>{moreInfo}</p>}
             </Col>
             <Col className="d-none d-sm-block">
               <img
